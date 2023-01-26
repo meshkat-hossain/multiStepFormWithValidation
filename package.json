@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@hookform/resolvers": "^2.9.10",
+    "bootstrap": "^5.2.3",
+    "react-bootstrap": "^2.6.0",
+    "react-hooks-useform": "^0.1.86"
+  }
+}
